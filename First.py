@@ -1,0 +1,1 @@
+print("Jay Ganesh,Shree Shantadurga mata ki jay")
