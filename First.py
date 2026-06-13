@@ -1,1 +1,2 @@
-print("Jay Ganesh,Shree Shantadurga mata ki jay")
+print("Jay Ganesh,Shree Shantadurga vijayte")
+print("Jay Ganesh...")
